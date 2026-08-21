@@ -1,0 +1,5 @@
+{
+  "name": "Sanatan - Veda to Vision",
+  "description": "An interactive AI scholar specializing in Hindu Mythology. Features a local relevance guard to ensure queries are on-topic before consulting the Gemini API.",
+  "requestFramePermissions": []
+}
